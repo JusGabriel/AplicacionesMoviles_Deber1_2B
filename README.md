@@ -6,9 +6,9 @@ Esta aplicación fue desarrollada como parte del **Deber 1 (2B)** para la materi
 
 | Formulario de Registro | Historial de Reportes |
 |---|---|
-| ![Formulario]<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" />
- | ![Historial](<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/1170f9a3-bc61-4ea9-aedd-8180dc2eab99" />
-) |
+|<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" />
+ | <img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/0801b76b-4345-48f6-95c7-9475a6c53acb" />
+ |
 
 ---
 
