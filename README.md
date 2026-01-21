@@ -10,7 +10,7 @@ Esta aplicación fue desarrollada como parte del **Deber 1 (2B)** para la materi
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 - **Registro Detallado:** Captura de tipo de accidente (choque, colisión, atropello), fecha y hora automática, matrícula del vehículo, nombre del conductor y número de cédula.
 - **Evidencia Multimedia:** Integración con la cámara del dispositivo para capturar fotos del siniestro en tiempo real.
