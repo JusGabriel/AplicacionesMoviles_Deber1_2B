@@ -6,7 +6,8 @@ Esta aplicación fue desarrollada como parte del **Deber 1 (2B)** para la materi
 
 | Formulario de Registro | Historial de Reportes |
 |---|---|
-| ![Formulario](AQUÍ_VA_EL_LINK_DE_TU_IMAGEN_1) | ![Historial](AQUÍ_VA_EL_LINK_DE_TU_IMAGEN_2) |
+| ![Formulario]<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" />
+ | ![Historial](AQUÍ_VA_EL_LINK_DE_TU_IMAGEN_2) |
 
 ---
 
