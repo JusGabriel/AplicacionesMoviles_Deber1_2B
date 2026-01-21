@@ -2,13 +2,11 @@
 
 Esta aplicación fue desarrollada como parte del **Deber 1 (2B)** para la materia de **Aplicaciones Móviles**. Está diseñada específicamente para que agentes de tránsito puedan registrar accidentes de forma rápida, eficiente y con respaldo multimedia y geográfico.
 
-## Evidencias
+## 📸 Evidencias del Funcionamiento
 
 | Formulario de Registro | Historial de Reportes |
-|---|---|
-|<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" />
- | <img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/0801b76b-4345-48f6-95c7-9475a6c53acb" />
- |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/f3c7d373-da46-4368-abff-a2e5adf61f9b" width="320" alt="Formulario" /> | <img src="https://github.com/user-attachments/assets/0801b76b-4345-48f6-95c7-9475a6c53acb" width="320" alt="Historial" /> |
 
 ---
 
